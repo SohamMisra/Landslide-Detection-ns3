@@ -40,7 +40,7 @@ This project simulates a landslide detection and warning system using the NS-3 n
 1. **Install Dependencies:** Ensure NS-3, GCC, and other necessary packages are installed.
 2. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone repository-url
 3. **Build and Run the Simulation:**
 
    ```bash
