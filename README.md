@@ -41,8 +41,8 @@ This project simulates a landslide detection and warning system using the NS-3 n
 2. **Clone the Repository:**
    ```bash
    git clone <repository-url>
-Build and Run the Simulation:
+3. **Build and Run the Simulation:**
 
-bash
-./waf --run landslide-simulation
+   ```bash
+   ./waf --run landslide-simulation
 Visualize Results: Open the generated NetAnim XML file to visualize the simulation.
